@@ -1,0 +1,1 @@
+Adafruit CircuitPython 5.2.0 on 2020-04-09; Adafruit Pybadge with samd51j19
